@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [SpeechKit](https://github.com/mastashake08/speech-kit)
 
-- 🤝 I’m looking for help with [MobiSnacks](https://mobisnacks.com)
+- 🤝 I’m looking for help with [Screen Recorder Pro](https://github.com/mastashake08/vue-screen-recorder)
 
 - 👨‍💻 All of my projects are available at [https://jyroneparker.com](https://jyroneparker.com)
 
