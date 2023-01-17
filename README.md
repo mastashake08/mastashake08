@@ -44,4 +44,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding, Data Analytics, and Other Important Skills Every Professional Must Begin Upskilling in the Digital Era](https://jyroneparker.com/2023/01/05/coding-data-analytics-and-other-important-skills-every-professional-must-begin-upskilling-in-the-digital-era/)
+- [#TwitterGate Twitter Was Hacked 400M Users Compromised!](https://jyroneparker.com/2022/12/27/twittergate-twitter-was-hacked-400m-users-compromised/)
+- [How To Prepare for a Successful Entrepreneurial Journey](https://jyroneparker.com/2022/11/28/how-to-prepare-for-a-successful-entrepreneurial-journey/)
+- [Should All Professionals Learn How to Code?](https://jyroneparker.com/2022/10/07/should-all-professionals-learn-how-to-code/)
+- [Tech Upgrades to Boost Business Productivity and Save Money](https://jyroneparker.com/2022/08/26/tech-upgrades-to-boost-business-productivity-and-save-money/)
 <!-- BLOG-POST-LIST:END -->
