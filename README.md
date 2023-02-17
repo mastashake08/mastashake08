@@ -44,9 +44,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating A Laravel ChatGPT API](https://jyroneparker.com/2023/02/17/creating-a-laravel-chatgpt-api/)
 - [SpeechKit: A Javascript Package For The Web Speech API &lpar;Speech Synthesis &amp; Speech Recognition&rpar;](https://jyroneparker.com/2023/01/23/speechkit-a-javascript-package-for-speech-synthesis-speech-recognition/)
 - [Coding, Data Analytics, and Other Important Skills Every Professional Must Begin Upskilling in the Digital Era](https://jyroneparker.com/2023/01/05/coding-data-analytics-and-other-important-skills-every-professional-must-begin-upskilling-in-the-digital-era/)
 - [#TwitterGate Twitter Was Hacked 400M Users Compromised!](https://jyroneparker.com/2022/12/27/twittergate-twitter-was-hacked-400m-users-compromised/)
 - [How To Prepare for a Successful Entrepreneurial Journey](https://jyroneparker.com/2022/11/28/how-to-prepare-for-a-successful-entrepreneurial-journey/)
-- [Should All Professionals Learn How to Code?](https://jyroneparker.com/2022/10/07/should-all-professionals-learn-how-to-code/)
 <!-- BLOG-POST-LIST:END -->
