@@ -44,9 +44,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving The ChatGPT Laravel API Into Composer – Creating My First Laravel 10 Package](https://jyroneparker.com/2023/02/22/moving-the-chatgpt-laravel-api-into-composer-creating-my-first-laravel-10-package/)
 - [4 Key Software Development Trends for 2023](https://jyroneparker.com/2023/02/21/4-key-software-development-trends-for-2023/)
 - [Creating A Laravel ChatGPT API](https://jyroneparker.com/2023/02/17/creating-a-laravel-chatgpt-api/)
 - [SpeechKit: A Javascript Package For The Web Speech API &lpar;Speech Synthesis &amp; Speech Recognition&rpar;](https://jyroneparker.com/2023/01/23/speechkit-a-javascript-package-for-speech-synthesis-speech-recognition/)
 - [Coding, Data Analytics, and Other Important Skills Every Professional Must Begin Upskilling in the Digital Era](https://jyroneparker.com/2023/01/05/coding-data-analytics-and-other-important-skills-every-professional-must-begin-upskilling-in-the-digital-era/)
-- [#TwitterGate Twitter Was Hacked 400M Users Compromised!](https://jyroneparker.com/2022/12/27/twittergate-twitter-was-hacked-400m-users-compromised/)
 <!-- BLOG-POST-LIST:END -->
