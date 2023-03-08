@@ -44,9 +44,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways ChatGPT Can Augment Your Engineering Team](https://jyroneparker.com/2023/03/07/5-ways-chatgpt-can-augment-your-engineering-team/)
 - [Implementing a Neural Network Using Raw JavaScript](https://jyroneparker.com/2023/03/06/implementing-a-neural-network-using-raw-javascript/)
 - [Create A ChatGPT Discord Bot With Slash Commands](https://jyroneparker.com/2023/03/03/create-a-chatgpt-discord-bot-with-slash-commands/)
 - [Creating A Web IoT Javascript Package: NFC, Bluetooth, Web Serial, Web USB](https://jyroneparker.com/2023/02/28/creating-a-web-iot-javascript-package-nfc-bluetooth-web-serial-web-usb/)
 - [Creating A WebTransport NPM Package – ShakePort](https://jyroneparker.com/2023/02/23/creating-a-webtransport-npm-package-shakeport/)
-- [Moving The ChatGPT Laravel API Into Composer – Creating My First Laravel 10 Package](https://jyroneparker.com/2023/02/22/moving-the-chatgpt-laravel-api-into-composer-creating-my-first-laravel-10-package/)
 <!-- BLOG-POST-LIST:END -->
