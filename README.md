@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Laravel, Vue**
 
-- 📫 How to reach me **jyrone.parker@gmail.com**
+- 📫 How to reach me **jyrone@jyroneparker.com**
 
 - ⚡ Fun fact **I am a classically trained violinist**
 
