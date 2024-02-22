@@ -44,9 +44,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Coder to Creator: How AI Will Revolutionize My Workflow in 2024!](https://jyroneparker.com/2024/02/21/from-coder-to-creator-how-ai-will-revolutionize-my-workflow-in-2024/)
 - [Exploring the Difference Between Artificial Life and Biological Life in AI Ethics](https://jyroneparker.com/2023/06/25/exploring-the-difference-between-artificial-life-and-biological-life-in-ai-ethics/)
 - [5 Ways ChatGPT Can Augment Your Engineering Team](https://jyroneparker.com/2023/03/07/5-ways-chatgpt-can-augment-your-engineering-team/)
 - [Implementing a Neural Network Using Raw JavaScript](https://jyroneparker.com/2023/03/06/implementing-a-neural-network-using-raw-javascript/)
 - [Create A ChatGPT Discord Bot With Slash Commands](https://jyroneparker.com/2023/03/03/create-a-chatgpt-discord-bot-with-slash-commands/)
-- [Creating A Web IoT Javascript Package: NFC, Bluetooth, Web Serial, Web USB](https://jyroneparker.com/2023/02/28/creating-a-web-iot-javascript-package-nfc-bluetooth-web-serial-web-usb/)
 <!-- BLOG-POST-LIST:END -->
