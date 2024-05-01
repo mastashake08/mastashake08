@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jyroneparker" target="blank"><img src="https://img.shields.io/twitter/follow/jyroneparker?logo=twitter&style=for-the-badge" alt="jyroneparker" /></a> </p>
 
-- 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com)
+- 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com) & [QuicTube](https://github.com/mastashake08/quictube)
 
-- 🌱 I’m currently learning **VR**
+- 🌱 I’m currently learning **Media Editing**
 
 - 👯 I’m looking to collaborate on [SpeechKit](https://github.com/mastashake08/speech-kit)
 
