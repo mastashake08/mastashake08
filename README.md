@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jyroneparker" target="blank"><img src="https://img.shields.io/twitter/follow/jyroneparker?logo=twitter&style=for-the-badge" alt="jyroneparker" /></a> </p>
 
+- 📷 [My media kit](https://github.com/mastashake08/shake-media-kit/tree/main)
 - 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com) & [QuicTube](https://github.com/mastashake08/quictube)
 
 - 🌱 I’m currently learning **Media Editing**
@@ -20,7 +21,7 @@
 
 - 💬 Ask me about **Laravel, Vue**
 
-- 📫 How to reach me **jyrone@jyroneparker.com**
+- 📫 How to reach me **inquiries@jyroneparker.com**
 
 - ⚡ Fun fact **I am a classically trained violinist**
 
