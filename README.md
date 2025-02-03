@@ -45,9 +45,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek AI Is Taking Over – Open Source Wins Again Stock Market Reacts](https://jyroneparker.com/2025/02/02/deepseek-ai-is-taking-over-open-source-wins-again-stock-market-reacts/)
 - [From Coder to Creator: How AI Will Revolutionize My Workflow in 2024!](https://jyroneparker.com/2024/02/21/from-coder-to-creator-how-ai-will-revolutionize-my-workflow-in-2024/)
 - [Exploring the Difference Between Artificial Life and Biological Life in AI Ethics](https://jyroneparker.com/2023/06/25/exploring-the-difference-between-artificial-life-and-biological-life-in-ai-ethics/)
 - [5 Ways ChatGPT Can Augment Your Engineering Team](https://jyroneparker.com/2023/03/07/5-ways-chatgpt-can-augment-your-engineering-team/)
 - [Implementing a Neural Network Using Raw JavaScript](https://jyroneparker.com/2023/03/06/implementing-a-neural-network-using-raw-javascript/)
-- [Create A ChatGPT Discord Bot With Slash Commands](https://jyroneparker.com/2023/03/03/create-a-chatgpt-discord-bot-with-slash-commands/)
 <!-- BLOG-POST-LIST:END -->
