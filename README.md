@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastashake08" alt="mastashake08" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jyroneparker" target="blank"><img src="https://img.shields.io/twitter/follow/mastashake08?logo=twitter&style=for-the-badge" alt="mastashake08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mastashake08" target="blank"><img src="https://img.shields.io/twitter/follow/mastashake08?logo=twitter&style=for-the-badge" alt="mastashake08" /></a> </p>
 
 - 📷 [My media kit](https://github.com/mastashake08/shake-media-kit/tree/main)
 - 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com) & [Project Aziz](https://projectaziz.com)
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jyroneparker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyroneparker" height="30" width="40" /></a>
+<a href="https://twitter.com/mastashake08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyroneparker" height="30" width="40" /></a>
 <a href="https://instagram.com/mastashake08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mastashake08" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jyroneparker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jyroneparker" height="30" width="40" /></a>
 <a href="/https://jyroneparker.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jyroneparker.com/feed/" height="30" width="40" /></a>
