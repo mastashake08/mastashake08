@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/jyroneparker" target="blank"><img src="https://img.shields.io/twitter/follow/jyroneparker?logo=twitter&style=for-the-badge" alt="jyroneparker" /></a> </p>
 
 - 📷 [My media kit](https://github.com/mastashake08/shake-media-kit/tree/main)
-- 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com) & [QuicTube](https://github.com/mastashake08/quictube)
+- 🔭 I’m currently working on [MobiSnacks](https://mobisnacks.com) & [Project Aziz](https://projectaziz.com)
 
 - 🌱 I’m currently learning **Media Editing**
 
