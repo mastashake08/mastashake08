@@ -43,9 +43,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek AI Is Taking Over – Open Source Wins Again Stock Market Reacts](https://jyroneparker.com/2025/02/02/deepseek-ai-is-taking-over-open-source-wins-again-stock-market-reacts/)
-- [From Coder to Creator: How AI Will Revolutionize My Workflow in 2024!](https://jyroneparker.com/2024/02/21/from-coder-to-creator-how-ai-will-revolutionize-my-workflow-in-2024/)
-- [Exploring the Difference Between Artificial Life and Biological Life in AI Ethics](https://jyroneparker.com/2023/06/25/exploring-the-difference-between-artificial-life-and-biological-life-in-ai-ethics/)
-- [5 Ways ChatGPT Can Augment Your Engineering Team](https://jyroneparker.com/2023/03/07/5-ways-chatgpt-can-augment-your-engineering-team/)
-- [Implementing a Neural Network Using Raw JavaScript](https://jyroneparker.com/2023/03/06/implementing-a-neural-network-using-raw-javascript/)
+- [OpenAI’s Rouge Model Attacked HuggingFace](https://jyroneparker.com/2026/07/24/openais-rouge-model-attacked-huggingface/)
+- [Let’s Build A Stream Deck With An ESP32 -S3](https://jyroneparker.com/2026/07/23/lets-build-a-stream-deck-with-an-esp32-s3/)
+- [Working With The Heltec V4 LoRA + GNSS](https://jyroneparker.com/2026/07/14/working-with-the-heltec-v4-lora-gnss/)
+- [Learn SWD Protocol: Key Features and Implementation](https://jyroneparker.com/2026/07/06/learn-swd-protocol-key-features-and-implementation/)
+- [ChatGPT Patron Course?](https://jyroneparker.com/2025/06/10/chatgpt-patron-course/)
 <!-- BLOG-POST-LIST:END -->
